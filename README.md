@@ -6,11 +6,11 @@ To get Started:
 Install Python and Mozila Firefox
 
 1. Clone The Repo
-2. Change the config.py file in main directory 
-  i. binary_location - change the binary location & point it to firefox.exe in your local system
-  ii. Download Geckodriver and point gecckodriver.exe to fire_fox_driver_path
+2. Change the config.py file in main directory :
+3. binary_location - change the binary location & point it to firefox.exe in your local system.
+4. Download Geckodriver and point gecckodriver.exe to fire_fox_driver_path.
       Dowload it from https://github.com/mozilla/geckodriver/releases
-  iii. fire_fox_profile_path - open mozila firefox and once login to your whatsapp, then open settings and copy the profiles path.
+5. fire_fox_profile_path - open mozila firefox and once login to your whatsapp, then open settings and copy the profiles path.
   
 
 after all these steps, go to main directory and run pip install -r requirements.txt
